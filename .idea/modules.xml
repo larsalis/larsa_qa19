@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wekipedia-selenium-test.iml" filepath="$PROJECT_DIR$/.idea/modules/wekipedia-selenium-test.iml" group="wekipedia-selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wekipedia-selenium-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/wekipedia-selenium-test_main.iml" group="wekipedia-selenium-test" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/wekipedia-selenium-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/wekipedia-selenium-test_test.iml" group="wekipedia-selenium-test" />
+    </modules>
+  </component>
+</project>
